@@ -1,7 +1,7 @@
 # API-Testing-Project--Contact-List
 ### I have learned API Testing by sending requests, such as *GET, POST, PUT, PATCH, DELETE*, with Postman, using demo APIs like [Contact List](https://thinking-tester-contact-list.herokuapp.com/) with [API Documentation](https://documenter.getpostman.com/view/4012288/TzK2bEa8#intro)
-### In this link you can find the collection created in Postman: 
-#### In image below we can see the requests collection created in Postman  
+### In this link you can find the collection created in Postman: [collection](https://github.com/IoanaFlore/API-Testing-Project--Contact-List/blob/main/Contact%20List%201.postman_collection.json)
+#### In image below we can see the requests collection created in Postman
 ![collection](https://github.com/IoanaFlore/API-Testing-Project--Contact-List/assets/111995212/a0511680-f7ba-4c3c-bcc0-14874e51b47d)
 #### You can see examples of requests:
 * GET
